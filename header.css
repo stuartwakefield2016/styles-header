@@ -1,0 +1,40 @@
+.header .avatar {
+  width: 5em;
+  height: 5em;
+  margin: 1em auto;
+}
+
+.header h1 {
+  margin: 0 auto;
+  padding: 0 0.75em;
+}
+
+.header .network-links {
+  text-align: center;
+  margin: 0 auto 0.5em;
+}
+
+.header .network-links > li {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.header .network-links > li > a {
+  height: 2.5em;
+  padding-right: 0;
+  display: block;
+}
+
+.header p[property=address] {
+  font-style: italic;
+  text-align: center;
+  font-size: 0.75em;
+  margin: 0 auto;
+  color: #B3B1A4;
+}
+
+.header p[property=description] {
+  text-align: center;
+  font-size: 0.75em;
+  color: #B3B1A4;
+}
