@@ -36,5 +36,6 @@
 .header p[property=description] {
   text-align: center;
   font-size: 0.75em;
+  margin: 1em auto 2em;
   color: #B3B1A4;
 }
